@@ -39,4 +39,4 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 1. Установите Python 3.9 или новее.
 2. Установите библиотеки командой `pip install pandas matplotlib seaborn jupyter`.
 3. Положите файл `cb_investments.csv` рядом с ноутбуком.
-4. Откройте `startup_analys.ipynb` в Jupyter Notebook и выполните ячейки по порядку.
+4. Откройте `startup_analysis.ipynb` в Jupyter Notebook и выполните ячейки по порядку.
